@@ -6,7 +6,7 @@ This repository contains C language implementations of various Queue data struct
 
 ## 👤 Author Information
 
-- **Name:** Sakshi
+- **Name:** Sakshi sharma
 - **Role:** Student, Bachelor of Computer Applications (BCA)
 
 ---
